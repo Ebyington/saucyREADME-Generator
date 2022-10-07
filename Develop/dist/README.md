@@ -1,12 +1,12 @@
 
-     asdfasdkn
+     README
 
 
 undefined
 
 ## Description
 
-asdgnisng
+generates READMEs
 
 ## Table of Contents
 
@@ -15,18 +15,19 @@ asdgnisng
 - [Contributors](#Contributors)
 - [License](#License)
 - [Tests](#Tests)
+- [Questions] (#Questions)
 
 ## Installation
 
-dfghd
+download and open in terminal
 
 ## Usage
 
-sdfgfdg
+use the terminal and run "node index.js" to enter inputs
 
 ## Contributors
 
-sgsdh
+EByington
 
 ## License
 
@@ -34,6 +35,13 @@ undefined
 
 ## Tests
 
-dsfgjon
+if the program runs, it works
+
+## Questions
+
+#Contact me with any questions
+
+Ebyington,
+ERictheguy@yahoo.com
 
 

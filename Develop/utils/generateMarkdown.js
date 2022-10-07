@@ -46,6 +46,7 @@ ${data.Description}
 - [Contributors](#Contributors)
 - [License](#License)
 - [Tests](#Tests)
+- [Questions] (#Questions)
 
 ## Installation
 
@@ -66,6 +67,13 @@ ${renderLicenseSection(data.License)}
 ## Tests
 
 ${data.Tests}
+
+## Questions
+
+Contact me with any questions
+
+${data.Questions},
+${data.Questions2}
 
 `;
 }
