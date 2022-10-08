@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs')
 const generateMarkdown = require('./utils/generateMarkdown');
@@ -39,7 +38,15 @@ inquirer
     },{
       type: 'input',
       message: 'List any tests and how to use them',
-      name: 'Tests'
+      name: 'Tests',
+    },{
+      type: 'input',
+      message: 'Please enter your Github username',
+      name: 'Questions',
+    },{
+      type: 'input',
+      message: 'Please enter your email address',
+      name: 'Questions2',
     },
   ])
   .then((response) => {
