@@ -1,5 +1,4 @@
-
-     The README.md Generator
+  The README.md Generator
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -29,7 +28,7 @@ https://drive.google.com/file/d/1tbbZVrQmA6A0H5D10pHjIe8pFDML3o0F/view
 
 ## Contributors
 
-eric byington
+Eric Byington
 
 ## License
 
@@ -45,7 +44,8 @@ Open in the terminal to run
 
 Contact me with any questions
 
-Ebyington,
+Eric Byington
+github.com/Ebyington,
 ericbyington33@gmail.com
 
 
