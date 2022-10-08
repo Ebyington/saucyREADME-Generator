@@ -43,6 +43,8 @@ ${data.Contributors}
 
 ## License
 
+Refer to badge link for license information
+
 ${renderLicenseBadge(data.License)}
 
 ## Tests
